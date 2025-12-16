@@ -1,1 +1,11 @@
-# gerenciador-biblioteca-java-lvl-2-dez-25
+DESAFIO — Gerenciador de Biblioteca (Java)
+
+Implemente um sistema de biblioteca em Java executado no terminal.
+
+Requisitos mínimos:
+- Cadastro
+- Listagem
+- Busca
+- Persistência em arquivo
+
+Estrutura e decisões ficam a seu critério.
